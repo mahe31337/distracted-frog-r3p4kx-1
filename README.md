@@ -1,6 +1,7 @@
 1.I have a sample Next.js app code in the directory "nextjs" on my local machine.
 
 2.I pushed the code to the GitHub repository named "nextjs" using the following commands:
+
 ###########     
 
 	 Using below command add all of the files in the current directory to the staging area:
