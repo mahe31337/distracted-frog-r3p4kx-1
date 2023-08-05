@@ -16,7 +16,7 @@
 
 4.It's worth mentioning that I have made all the Terraform code available publicly in my GitHub repository.
   
-5. I have uploaded terraform code in the directory name terraform in the same github repo and pasted the code below as well.
+5. I have uploaded terraform code file main.tf in the same github repo and pasted the code below as well.
 
 #The following Terraform code deploys an AWS Amplify web app by creating the necessary resources and configuring the deployment from a specified GitHub repository.
  and enable the continuous deployments (CI/CD)#
