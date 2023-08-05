@@ -19,8 +19,8 @@
   
 5. I have uploaded terraform code file main.tf in the same github repo and pasted the code below as well.
 
-#The following Terraform code deploys an AWS Amplify web app by creating the necessary resources and configuring the deployment from a specified GitHub repository.
- and enable the continuous deployments (CI/CD)#
+#The following Terraform code deploys an AWS Amplify web app by creating the necessary resources and 
+configuring the deployment from a specified GitHub repository and enable the continuous deployments (CI/CD)#
 ############
 	##Fetch nextjs app code from github and deploy it on aws amplify##
 
